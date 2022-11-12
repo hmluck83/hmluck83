@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hmluck83
 - 👀 I’m interested in make money
 - 🌱 I’m currently learning Golang BlockChain
-// - 💞️ I’m looking to collaborate on 
+- ~~💞️ I’m looking to collaborate on~~
 - 📫 How to reach me - E-mail hmluck83@gmail.com
 
 <!---
